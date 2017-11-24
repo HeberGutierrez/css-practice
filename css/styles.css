@@ -1,1 +1,10 @@
-h1{color: #1551b2;}
+h1{color: #1551b2;
+   text-align: center;}
+
+h2{color: #bdfc3f;
+   font-style: italic;
+   text-align: center;}
+
+p {font-family: sans-serif;}
+
+ul{line-height: 40px;}
