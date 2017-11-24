@@ -5,6 +5,20 @@ h2{color: #bdfc3f;
    font-style: italic;
    text-align: center;}
 
-p {font-family: sans-serif;}
+p {font-family: sans-serif;
+   color: #ebedea;}
 
 ul{line-height: 40px;}
+
+li{color: #fcad3f;
+   font-style: oblique;}
+
+h5{color: #ebedea;}
+
+h6{color: #af3b26;
+   font-style: italic;
+   text-align: center;
+   text-shadow: 8px 7px 6px rgba(150, 150, 150, 1);}
+
+body{background-image: url("/home/hc-24/Documents/hc-projects/pre-upload-files/my-first-website/pics/bckwall.png");
+     background-position: center;}
