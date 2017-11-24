@@ -1,4 +1,4 @@
-h1{color: #1551b2;
+h1{color: #dddcd2;
    text-align: center;}
 
 h2{color: #bdfc3f;
@@ -6,7 +6,11 @@ h2{color: #bdfc3f;
    text-align: center;}
 
 p {font-family: sans-serif;
-   color: #ebedea;}
+   color: #ebedea;
+   text-align: inherit;
+   border-radius: 5px;
+   background-color: #2c5160;
+   background-size: : 10px;}
 
 ul{line-height: 40px;}
 
@@ -22,3 +26,20 @@ h6{color: #af3b26;
 
 body{background-image: url("/home/hc-24/Documents/hc-projects/pre-upload-files/my-first-website/pics/bckwall.png");
      background-position: center;}
+
+.button {color: rgb(255, 231, 230);
+font-size: 12px;
+padding: 8px;
+text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 20.675675675675677px;
+-moz-border-radius: 20.675675675675677px;
+border-radius: 20.675675675675677px;
+background: rgb(146, 219, 255);
+background: -moz-linear-gradient(90deg, rgb(146, 219, 255) 30%, rgb(70, 111, 128) 70%);
+background: -webkit-linear-gradient(90deg, rgb(146, 219, 255) 30%, rgb(70, 111, 128) 70%);
+background: -o-linear-gradient(90deg, rgb(146, 219, 255) 30%, rgb(70, 111, 128) 70%);
+background: -ms-linear-gradient(90deg, rgb(146, 219, 255) 30%, rgb(70, 111, 128) 70%);
+background: linear-gradient(0deg, rgb(146, 219, 255) 30%, rgb(70, 111, 128) 70%);
+-webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);}
